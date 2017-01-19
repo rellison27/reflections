@@ -28,3 +28,5 @@ the result is the branch that merges with the master gets deleted and both branc
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+idk
