@@ -24,5 +24,7 @@ the branches help me see where and how each branch relates and it helps me under
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+the result is the branch that merges with the master gets deleted and both branches share the same commits
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
