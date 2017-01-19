@@ -5,7 +5,7 @@ it creates an empty repository. Why, because without a repository you won’t be
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-I have no idea
+one it a stage where you’re ready to commit it gives us the opportunity to put it in the repository at the right time
 
 How can you use the staging area to make sure you have one commit per logical
 change?
