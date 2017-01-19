@@ -19,6 +19,8 @@ If I wanted a spanish version o this text or wanted to adde a new feature I coul
 
 How do the diagrams help you visualize the branch structure?
 
+the branches help me see where and how each branch relates and it helps me understand reachability.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
