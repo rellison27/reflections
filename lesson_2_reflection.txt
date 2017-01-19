@@ -10,6 +10,8 @@ one it a stage where you’re ready to commit it gives us the opportunity to put
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+you can use git diff —-staged to compare the differences.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
