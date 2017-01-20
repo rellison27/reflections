@@ -26,4 +26,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+   i would rather make a change in a branch when I’m trying to create a new feature. the benefits is being able to work on multiple things at once without having to conflict with another.
